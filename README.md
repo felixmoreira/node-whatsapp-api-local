@@ -1,4 +1,3 @@
-# projeto-whatsapp-api
 # WhatsApp Web API Project 🚀
 
 Este projeto é uma API baseada no `whatsapp-web.js` para envio e recebimento de mensagens via WhatsApp. Inclui suporte a arquivos estáticos, log de erros e integração com o PM2 para gerenciamento do processo.
