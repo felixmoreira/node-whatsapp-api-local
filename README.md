@@ -124,12 +124,6 @@ pm2 stop app.js
 pm2 logs
 ```
 
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
-
----
-
 ### Dúvidas?
 
 Para mais informações, acesse o repositório no [GitHub](https://github.com/felixmoreira/projeto-whatsapp-api) ou entre em contato pelo [LinkedIn](https://www.linkedin.com/in/felixms).
