@@ -1,4 +1,4 @@
-WhatsApp API
+## WhatsApp API
 
 Este projeto utiliza a biblioteca [whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) para interagir com o WhatsApp Web e criar uma API que possibilita o envio e recebimento de mensagens, bem como o gerenciamento de mídias enviadas e recebidas.
 
