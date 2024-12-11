@@ -1,0 +1,1 @@
+npm install whatsapp-web.js qrcode-terminal fs path express pm2
